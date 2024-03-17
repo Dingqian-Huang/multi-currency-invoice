@@ -4,6 +4,8 @@ Eureka used as register center
 greengate-invoice-app-service as a microservice
 multi-currency-invoice-gateway is the gateway
 you can use port:6003 (gateway port) or 8080(microservice port)
+################ GIT ####################
+https://github.com/Dingqian-Huang/multi-currency-invoice.git
 ############### How to Start ##############
 start in the order with:
 in IDE:
