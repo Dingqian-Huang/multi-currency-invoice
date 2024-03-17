@@ -1,0 +1,14 @@
+com\greengate\constant\FrankfurterApp.class
+com\greengate\model\CurrencyRate$CurrencyRateBuilder.class
+com\greengate\kafka\request\KafkaCurrencyRequest$KafkaCurrencyRequestBuilder.class
+com\greengate\kafka\response\KafkaCurrencyResponse.class
+com\greengate\model\PurchaseRecord.class
+com\greengate\kafka\response\KafkaCurrencyResponse$KafkaCurrencyResponseBuilder.class
+com\greengate\model\PurchaseRecord$PurchaseRecordBuilder.class
+com\greengate\request\InvoiceRequest.class
+com\greengate\constant\ApiConstant.class
+com\greengate\kafka\request\KafkaCurrencyRequest.class
+com\greengate\model\Invoice.class
+com\greengate\model\CurrencyRate.class
+com\greengate\exception\MultiCurrencyInvoiceException.class
+com\greengate\model\Invoice$InvoiceBuilder.class
