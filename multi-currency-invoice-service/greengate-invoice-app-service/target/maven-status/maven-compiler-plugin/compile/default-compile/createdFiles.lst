@@ -1,5 +1,0 @@
-com\greengate\config\SwaggerConfig.class
-com\greengate\service\FrankfurterAppService.class
-com\greengate\controller\MultiCurrencyInvoiceController.class
-com\greengate\service\MultiCurrencyInvoiceService.class
-com\greengate\MultiCurrencyInvoiceServiceApplication.class
