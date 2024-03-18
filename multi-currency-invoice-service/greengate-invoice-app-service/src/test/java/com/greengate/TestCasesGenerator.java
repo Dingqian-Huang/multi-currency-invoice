@@ -24,7 +24,7 @@ public interface TestCasesGenerator {
                         "      }\n" +
                         "    ]\n" +
                         "  }\n" +
-                        "}", "1600.9")
+                        "}", "1600.86")
         );
     }
 }
